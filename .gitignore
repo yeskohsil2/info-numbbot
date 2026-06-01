@@ -18,3 +18,13 @@ venv/
 env/
 .vscode/
 .idea/
+__pycache__/
+*.pyc
+*.pyo
+*.session
+.env
+.DS_Store
+venv/
+env/
+.vscode/
+.idea/
